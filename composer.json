@@ -1,0 +1,21 @@
+{
+    "name": "megaads-vn/onesignal-notification",
+    "description": "OneSignal Notification",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tuananhzippy",
+            "email": "kieutuananh1995@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "MegaAds": "src/"
+        }
+    }
+}
